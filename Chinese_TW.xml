@@ -367,6 +367,9 @@
     <string name="disable_swipe_tabs">禁用滑動</string>
     <string name="disable_swipe_tabs_summary">在 Maki 主介面上的頁面之間禁用滑動</string>
 
+    <string name="maki_update">一次升級已可用！</string>
+    <string name="maki_update_summary">在 %1$s 取得包含改進與漏洞修復的最新版本 Maki。點此更新。</string>
+
     <string name="check_for_updates">檢查更新</string>
     <string name="check_for_updates_summary">取得關於 Maki 更新的通知</string>
 
@@ -391,7 +394,6 @@
     <string name="video_call">視訊通話</string>
     <string name="group_chat">群組聊天</string>
     <string name="file_chooser_error">無法開啟檔案選擇器</string>
-
 
     <string name="chat_bubbles">聊天大頭貼</string>
     <string name="chat_bubbles_summary">在聊天大頭貼中開啟通知</string>
@@ -570,11 +572,20 @@
     <string name="maki_what_you_get">你得到了什麼？</string>
     <string name="maki_remove_ads">去除廣告</string>
 
+    <!--Maki 4.8.5 Marigold-->
+    <string name="jobs">工作</string>
+
+    <!--Maki 4.8.6 Marigold-->
+    <string name="downloader">下載器</string>
+
     <!--Maki 4.8.7 Marigold-->
     <array name="price_titles">
-        <item>基本的</item>
-        <item>中</item>
-        <item>高</item>
-        <item>超</item>
+        <item>基本</item>
+        <item>中等</item>
+        <item>高等</item>
+        <item>超級</item>
     </array>
+
+    <string name="open_on_new_page">在新頁面開啟</string>
+    <string name="open_on_new_page_summary">在新螢幕開啟 Facebook 頁面</string>
 </resources>

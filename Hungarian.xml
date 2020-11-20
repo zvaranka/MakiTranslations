@@ -14,7 +14,7 @@
     <string name="messages">Üzenetek</string>
     <string name="favorites">Kedvencek</string>
     <string name="photos">Képek</string>
-    <string name="privacy">Adatvédelmi beállítások</string>
+    <string name="privacy">Adatvédelem</string>
     <string name="fb_chat">Aktív ismerősök</string>
     <string name="pokes">Bökések</string>
     <string name="refresh">Frissítés</string>
@@ -47,7 +47,7 @@
         <item>Reddit</item>
         <item>Sötétkék (2)</item>
     </string-array>
-    <string name="addPage">Hozzáadás kedvencekhez</string>
+    <string name="addPage">Kedvencekhez</string>
     <string name="notification_sound">Értesítési hang</string>
     <string name="silent">Nincs hang</string>
     <string name="vibrate">Rezgés</string>
@@ -89,7 +89,7 @@
     <string name="messenger_app">Facebook Messenger</string>
     <string name="messenger_app_more">A Facebook Messenger használata a beépített üzenetküldő helyett</string>
 
-    <string name="addHome">Hozzáadás a kezdő képernyőhöz</string>
+    <string name="addHome">Kezdő képernyőhöz</string>
     <string name="power_saving_mode">Energiamegtakarító mód</string>
     <string name="thanks_support">Köszönet a támogatásért!</string>
     <string name="unable_purchase">A vásárlás törlésre került</string>
@@ -182,7 +182,7 @@
     <!--Maki 2.6-->
     <!--Maki 2.6.1-->
     <!--New settings-->
-    <string name="top_news">Legjobb történetek</string>
+    <string name="top_news">Legnépszerűbb</string>
     <string name="top_news_firstly">A hírcsatorna legfontosabb történeteinek megjelenítése</string>
     <string name="hide_people">Feltehetőleg ismerős emberek</string>
     <string name="hide_people_summary">Ajánlott ismerősök eltávolítása a hírcsatornából</string>
@@ -197,10 +197,10 @@
     <string name="enable_quickview">Gyorsnézet</string>
     <string name="enable_quickview_summary">A hivatkozás megérintése és lenyomva tartása az előnézethez</string>
     <string name="enable_exit_summary">Megerősítési párbeszédablak megjelenítése az alkalmazás elhagyása előtt</string>
-    <string name="enable_fab_summary">Használjon egy kis gombot a jobb alsó sarokban a Facebook állapotfrissítő helyett</string>
-    <string name="power_saving_mode_more">A legtöbb funkció kikapcsolásával megnövelheti az akkumulátort</string>
+    <string name="enable_fab_summary">Kis gomb használata a jobb alsó sarokban a Facebook állapotfrissítő helyett</string>
+    <string name="power_saving_mode_more">A legtöbb funkció kikapcsolásával megnövelhető az akkumulátor idejet</string>
     <string name="enable_location">Elhelyezkedés</string>
-    <string name="enable_location_summary">Adja meg a Maki számára a tartózkodási helyét, hogy használhassa a bejelentkezéseket</string>
+    <string name="enable_location_summary">A tartózkodási hely megadása a Makinál a bejelentkezésekhez</string>
     <!--Notification channels-->
     <string name="notifications_channel">Értesítések csatorna beállításai</string>
     <string name="messages_channel">Üzenetek csatorna beállításai</string>
@@ -227,7 +227,7 @@
     <string name="thanks_more">A fejlesztők köszönik a támogatást! Most már használhatjuk a saját Maki Plus példányt. Szeretettel, Sunshine Apps.</string>
     <!--2.6.4-->
     <string name="keep_screen">Képernyő bekapcsolva hagyása</string>
-    <string name="keep_screen_summary">Engedélyezve a képernyő mindig bekapcsolva maradj a Maki használatakor</string>
+    <string name="keep_screen_summary">Engedélyezve a képernyő mindig bekapcsolva marad a Maki használatakor</string>
     <string name="hide_telegram">Telegram elrejtése</string>
     <string name="hide_pinterest">Pinterest elrejtése</string>
     <string name="hide_birthdays">Születésnapok</string>
@@ -250,25 +250,25 @@
     <string name="manage">A közösségi média kezelése</string>
     <string name="manage_summary">A kiválasztott közösségi média elrejtése vagy megjelenítése</string>
     <!--3.1-->
-    <string name="mark_notifications">Jelöld olvasottként</string>
+    <string name="mark_notifications">Olvasottnak jelölés</string>
     <!--3.2-->
     <string name="keyword_post">Hozzászólások kulcsszó szerint</string>
-    <string name="keyword_post_summary">Bármely kulcsszóval elrejtheti a hírcsatornában található kiadványokat</string>
+    <string name="keyword_post_summary">Bármely kulcsszóval elrejthetők a hírcsatornában található bejegyzések</string>
     <string name="blocked_keywords">Blokkolt kulcsszavak</string>
-    <string name="active_friends">Aktív barátok</string>
+    <string name="active_friends">Aktív ismerősök</string>
     <string name="remove_keyword">Kulcsszó eltávolítása</string>
-    <string name="remove_keyword_summary">Tényleg el akarja távolítani ezt a kulcsszót?</string>
+    <string name="remove_keyword_summary">Eltábolításra kerüljön ez a kulcsszó?</string>
     <string name="list_empty">Nincs itt semmi!</string>
-    <string name="quiet_hours">Ne zavarj</string>
-    <string name="quiet_hours_summary">Válassza ki az időintervallumokat, ha nem szeretne értesítést kapni</string>
+    <string name="quiet_hours">Csendes órák</string>
+    <string name="quiet_hours_summary">Válasszuk ki az időintervallumokat, amikor nem szeretnénk értesítést kapni</string>
     <string name="quiet_hour">Csendes óra</string>
-    <string name="remove_interval">Távolítsa el az intervallumot</string>
-    <string name="remove_interval_summary">Tényleg el akarja távolítani ezt az intervallumot?</string>
+    <string name="remove_interval">Intervallum eltávolítása</string>
+    <string name="remove_interval_summary">Eltávolításta kerüljön ez az intervallum?</string>
     <string name="interval_from_to">%1$s és %2$s óra között</string>
     <string name="lock_background">Jelszó háttér</string>
-    <string name="lock_background_summary">Jelöljön ki egy képet jelszó háttérként</string>
-    <string name="highlight_posts">Jelölje ki a bejegyzéseket</string>
-    <string name="highlight_posts_summary">Bármely kulcsszóval jelölje ki a hírcsatornában található kiadványokat</string>
+    <string name="lock_background_summary">Jelöljünk ki egy képet jelszó háttérként</string>
+    <string name="highlight_posts">Jelöljük ki a bejegyzéseket</string>
+    <string name="highlight_posts_summary">Bármely kulcsszóval jelöljük ki a hírcsatornában található bejegyzéseket</string>
     <string name="highlighted_post">Kiemelt üzenet</string>
     <string name="auto_night_plus">Mentsd meg a szemed</string>
     <string name="quickbar_plus">Karnyújtásnyira</string>
@@ -279,37 +279,37 @@
     <string name="blocked_hours">Korlátozott alkalmazáshasználat</string>
     <string name="blocked_hours_summary">Állítsa be az időintervallumokat, amikor nem akarja tölteni az időt a társadalomban</string>
     <string name="blocked_hours_notify">Értesítést</string>
-    <string name="blocked_hours_notify_summary">Értesítést kapjon, amikor a blokkolt óra befejeződött, és újra használhatja az alkalmazást</string>
+    <string name="blocked_hours_notify_summary">Értesítés fogadása a blokkolt órák végén és az alkalmazás ismételt használata</string>
     <string name="blocked_hours_finish">Ideje visszatérni!</string>
-    <string name="blocked_hours_finish_summary">Most ismét használhatja a Makit</string>
-    <string name="blocked_hours_disable_notifications">Tiltsa le az értesítéseket blokkolt órákban</string>
+    <string name="blocked_hours_finish_summary">Most ismét használható a Maki</string>
+    <string name="blocked_hours_disable_notifications">Az értesítéseket letiltésa a blokkolt órákban</string>
     <string name="blocked_hours_disable_notifications_summary">Tiltsa le az értesítéseket, ha nem tudja blokkolt órákban használni az alkalmazást</string>
     <string name="maki_is_locked">Maki zárva van</string>
     <string name="blocked_description">Az alkalmazás letiltásához %1$s - %2$s között kell beállítani. Használd ezt az időt, hogy valami nagyszerűt csinálj!</string>
     <string name="blocked_hour">Blokkolt intervallum</string>
     <string name="lock_usage_title">Az intervallum neve</string>
     <!--3.4.1-->
-    <string name="last_opened">Utoljára megnyílt</string>
+    <string name="last_opened">Utoljára megnyitva</string>
     <string name="remove_bookmark">Könyvjelző eltávolítása?</string>
-    <string name="are_you_sure">Biztosan szeretné eltávolítani a %1$s a kedvencek közül?</string>
+    <string name="are_you_sure">Biztosan eltávolításra kerüljön a %1$s a kedvencek közül?</string>
     <string name="update_link">https://makisocial.com/category/updates/</string>
 
     <!--Intro-->
-    <string name="privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="privacy_policy">Adatvédelem</string>
     <string name="privacy_policy_link">https://makisocial.com/privacy-policy/</string>
-    <string name="intro_title">Üdvözöljük a Maki!</string>
+    <string name="intro_title">Üdvözöljük a Makiban!</string>
 
     <string name="facebook_play">Videók a Watch funkcióban</string>
-    <string name="marketplace">Marketplace</string>
+    <string name="marketplace">Piactér</string>
 
     <!--3.7-->
-    <string name="enabled">Bekapcsolt</string>
+    <string name="enabled">Engedélyezve</string>
     <!--4.0-->
-    <string name="autoplay_videos">Tiltsa le a Maki videolejátszót</string>
-    <string name="autoplay_videos_summary">Ha engedélyezve van, akkor nem tölthet le videókat és nem oszthat meg videókat</string>
+    <string name="autoplay_videos">Maki videolejátszó letiltása</string>
+    <string name="autoplay_videos_summary">Ha engedélyezve van, akkor nem tölthetünk le és nem oszthatunk meg videókat</string>
 
-    <string name="images_play">Tiltsa le a Maki képnézegetőt</string>
-    <string name="images_play_summary">A kép megnyitásához használja a kép alatt a \"Teljes méret megtekintése\" gombot</string>
+    <string name="images_play">Maki képnézegető letiltása</string>
+    <string name="images_play_summary">A kép megnyitásához használjuk a kép alatt a \"Teljes méret megtekintése\" gombot</string>
 
     <string name="hide_navigation">A navigáció elrejtése</string>
     <string name="hide_navigation_summary">A fejléc és a navigáció elrejtése görgetés közben</string>
@@ -319,24 +319,24 @@
     <string name="finish_call_description">Be szeretne fejezni egy hívást?</string>
 
     <string name="colored_navigation">Színes navigáció</string>
-    <string name="colored_navigation_summary">Töltse ki a navigációs gombok hátterét egy téma színével</string>
+    <string name="colored_navigation_summary">Töltsük ki a navigációs gombok hátterét egy téma színével</string>
     <string name="not_supported">A készülék nem támogatja ezt a funkciót</string>
 
     <!--3.9.3-->
     <string name="add_keyword">Adjon hozzá kulcsszót</string>
-    <string name="rate_dialog">Értékeld Maki</string>
-    <string name="rate_dialog_more" formatted="true">Szereted használni Maki? Ha igen, értékelné őt a %1$s? Nem fog sok időt igénybe venni. Nagyon szépen köszönjük!</string>
+    <string name="rate_dialog">Maki értékelése</string>
+    <string name="rate_dialog_more" formatted="true">Ha tetszik a Maki, értékeljük: %1$s. Nem vesz sok időt igénybe. Nagyon szépen köszönjük!</string>
     <string name="help">Segítség</string>
 
     <!--3.9.5-->
-    <string name="disable_swipe_tabs">Lapozzunk az oldalak között</string>
-    <string name="disable_swipe_tabs_summary">Letilthatja a kezdőképernyőn az oldalak közötti váltást</string>
+    <string name="disable_swipe_tabs">Fülek közötti lapozás letiltása</string>
+    <string name="disable_swipe_tabs_summary">Letilthatjuk a kezdőképernyőn az fülek közötti váltást</string>
 
     <string name="maki_sale">Maki Plus kedvezménnyel!</string>
-    <string name="maki_sale_summary">Ne veszítse el esélyét arra, hogy kedvezményesen kapjon Maki Plus. Érintse meg ide, hogy megkapja.</string>
+    <string name="maki_sale_summary">Ne veszítsük el esélyt arra, hogy kedvezményesen kapjuk meg Maki Plust. Koppintás ide.</string>
 
-    <string name="maki_update">Frissítés érhető el!</string>
-    <string name="maki_update_summary">Töltse le a Maki legújabb verzióját, a fejlesztésekkel és a hibajavításokkal a %1$s. Koppintson ide a frissítéshez.</string>
+    <string name="maki_update">Maki frissítés</string>
+    <string name="maki_update_summary">Töltsük le a Maki legújabb verzióját, a fejlesztésekkel és a hibajavításokkal: %1$s. Koppintás ide a frissítéshez.</string>
 
     <string name="check_for_updates">Frissítések keresése</string>
     <string name="check_for_updates_summary">Értesítést kap az új frissítésről</string>
@@ -365,8 +365,8 @@
     <string name="chat_bubbles">Chat-fejek</string>
     <string name="chat_bubbles_summary">Nyissa meg az értesítéseket a chat-fejek</string>
 
-    <string name="give_permission_photos">Engedélyt kell adnia a fényképezőgépről történő képek feltöltésére.</string>
-    <string name="heads_hint">Érintse meg és tartsa lenyomva a csevegő fejet az eltávolításához</string>
+    <string name="give_permission_photos">Engedélyt kell adni a fényképezőgépről történő képek feltöltésére.</string>
+    <string name="heads_hint">Érintsük meg és tartsa lenyomva a csevegő fejet az eltávolításához</string>
 
     <string name="messenger_slow">Lassú kapcsolat</string>
     <string name="messenger_slow_summary">Használja az Egyszerűsített Messenger alkalmazást, ha a kapcsolat lassú</string>
@@ -374,15 +374,15 @@
     <string name="messenger_network_summary">Használja az egyszerűsített Messenger alkalmazást mobilhálózat használatakor</string>
 
     <string name="got_it">Oké</string>
-    <string name="messenger_slow_dialog">Úgy tűnik, hogy a kapcsolat lassú - átvált az egyszerűsített Messengerre. Ezt az opciót letilthatja az alkalmazás beállításainak "Facebook" kategóriájában.</string>
-    <string name="messenger_network_dialog">Mobilhálózaton van - a Messenger átvált az egyszerűsített re. Ezt az opciót letilthatja az alkalmazás beállításainak "Facebook" kategóriájában.</string>
+    <string name="messenger_slow_dialog">Úgy tűnik, hogy a kapcsolat lassú - átváltás az egyszerűsített Messengerre. Ezt az opció letiltható az alkalmazás beállításainak "Facebook" kategóriájában.</string>
+    <string name="messenger_network_dialog">Mobilhálózaton van - a Messenger átvált az egyszerűsített re. Ezt az opció letiltható az alkalmazás beállításainak "Facebook" kategóriájában.</string>
 
     <string name="restart">Még egy lépés</string>
     <string name="restart_summary">Zárja be és nyissa meg újra a beszélgetést a hangüzenetek rögzítéséhez</string>
 
     <string name="chat_bubbles_foreground">A csevegő fejek a háttérben futnak</string>
     <string name="privacy_plus">Igazán barátságos</string>
-    <string name="privacy_plus_summary">A Maki nem gyűjt és értékesít személyes adatait - a magánélete sokkal fontosabb, mint a bevételünk.</string>
+    <string name="privacy_plus_summary">A Maki nem gyűjt és értékesít személyes adatokat - a magánélete sokkal fontosabb a bevételnél.</string>
 
     <string name="remove_sponsored_plus">Viszlát, hirdetések!</string>
 
@@ -394,22 +394,22 @@
     </string-array>
 
     <string name="blocked_hours_list">Blokkolt időközök</string>
-    <string name="blocked_hours_list_summary">Adja hozzá vagy módosítsa a blokkolt időintervallumokat</string>
+    <string name="blocked_hours_list_summary">Adjuk hozzá vagy módosítsuk a blokkolt időintervallumokat</string>
 
     <string name="nothing_found">Nincs találat</string>
-    <string name="error_opening">Sajnos egy linket nem lehetett megnyitni</string>
+    <string name="error_opening">A hivatkozást nem lehet megnyitni.</string>
 
-    <string name="select_start_time">Válassza ki a kezdési időt</string>
-    <string name="select_end_time">Válassza ki a befejezési időt</string>
+    <string name="select_start_time">Kezdési idő</string>
+    <string name="select_end_time">Befejezési idő</string>
 
-    <string name="cant_add_keyword">Sajnálom, nem tudok hozzáadni egy üres kulcsszót</string>
-    <string name="quickbar_expand">Érintse meg a kibontáshoz</string>
+    <string name="cant_add_keyword">Nem adható hozzás kulcsszó</string>
+    <string name="quickbar_expand">Koppintás meg a kibontáshoz</string>
     <string name="restore_purchase">Vásárlás visszaállítása</string>
 
     <string name="power_website">Facebook verzió</string>
 
     <string name="twitter_theme">Twitter téma</string>
-    <string name="twitter_theme_summary">Alkalmazzon egyedi témát a Twitteren</string>
+    <string name="twitter_theme_summary">Egyedi téma alkalmazása a Twitteren</string>
 
     <!--Maki 4.1.6 Hortensia-->
     <string name="hide_ig_stories">Az Instagram történeteinek elrejtése</string>
@@ -417,11 +417,11 @@
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Beépített böngésző</string>
 
-    <string name="plus_menu_label">Frissítsen a Maki+</string>
-    <string name="plus_menu_label_summary">Érintse meg a információkat</string>
+    <string name="plus_menu_label">Frissítés a Maki+ verzióra</string>
+    <string name="plus_menu_label_summary">Koppintásmeg a információkért</string>
 
-    <string name="swipe_to_learn">Csúsztasson tovább</string>
-    <string name="buy_button">Kinyit</string>
+    <string name="swipe_to_learn">Csúsztás tovább</string>
+    <string name="buy_button">Kinyitás</string>
 
     <!--Maki 4.2.3 Hortensia-->
     <string name="intro_summary">Nagyon köszönöm, hogy kiválasztottál Maki!</string>
